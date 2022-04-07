@@ -16,6 +16,7 @@
 		97DF306927FF195200CA7AE9 /* LandmarkBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DF306827FF195200CA7AE9 /* LandmarkBookTests.swift */; };
 		97DF307327FF195200CA7AE9 /* LandmarkBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DF307227FF195200CA7AE9 /* LandmarkBookUITests.swift */; };
 		97DF307527FF195200CA7AE9 /* LandmarkBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DF307427FF195200CA7AE9 /* LandmarkBookUITestsLaunchTests.swift */; };
+		97DF308227FF26B800CA7AE9 /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DF308127FF26B800CA7AE9 /* imageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		97DF306E27FF195200CA7AE9 /* LandmarkBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarkBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		97DF307227FF195200CA7AE9 /* LandmarkBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkBookUITests.swift; sourceTree = "<group>"; };
 		97DF307427FF195200CA7AE9 /* LandmarkBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		97DF308127FF26B800CA7AE9 /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				97DF305127FF195100CA7AE9 /* AppDelegate.swift */,
 				97DF305327FF195100CA7AE9 /* SceneDelegate.swift */,
 				97DF305527FF195100CA7AE9 /* ViewController.swift */,
+				97DF308127FF26B800CA7AE9 /* imageViewController.swift */,
 				97DF305727FF195100CA7AE9 /* Main.storyboard */,
 				97DF305A27FF195200CA7AE9 /* Assets.xcassets */,
 				97DF305C27FF195200CA7AE9 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				97DF305627FF195100CA7AE9 /* ViewController.swift in Sources */,
 				97DF305227FF195100CA7AE9 /* AppDelegate.swift in Sources */,
+				97DF308227FF26B800CA7AE9 /* imageViewController.swift in Sources */,
 				97DF305427FF195100CA7AE9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
